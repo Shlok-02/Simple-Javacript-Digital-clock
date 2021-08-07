@@ -1,1 +1,1 @@
-# Simple-Javacript-Digital-clock
+Simple Js clock made using DOM,eventListeners ,SetInterval function ,arrays.
